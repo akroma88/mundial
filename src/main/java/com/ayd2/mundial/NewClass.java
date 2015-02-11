@@ -13,4 +13,5 @@ package com.ayd2.mundial;
 public class NewClass {
     int hola;
     String cosa;
+    Object ob;
 }
